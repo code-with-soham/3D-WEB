@@ -37,9 +37,10 @@ Check out the live version of the project here: [3D Web Experience](https://code
 
 ## 📸 Screenshots
 
-*![Preview Image](Img
-/Screenshot (151).png
-)
+*![Preview Image](Img/1.png)
+![Preview Image](Img/2.png)
+![Preview Image](Img/3.png)
+![Preview Image](Img/4.png)
 *
 
 ## 📌 Future Enhancements
