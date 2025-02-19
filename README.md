@@ -37,7 +37,9 @@ Check out the live version of the project here: [3D Web Experience](https://code
 
 ## 📸 Screenshots
 
-*![Preview Image]([images/preview.png](https://github.com/code-with-soham/3D-WEB/blob/main/Img/Screenshot%20(151).png))
+*![Preview Image](Img
+/Screenshot (151).png
+)
 *
 
 ## 📌 Future Enhancements
